@@ -1,0 +1,132 @@
+# 🚀 Setup Instructions
+
+Panduan lengkap untuk mengatur GitHub repository dan GitHub Pages.
+
+## 📋 Prasyarat
+
+- Akun GitHub
+- Git terinstall di komputer
+- Text editor (VSCode, Sublime, dll)
+
+## 🔧 Langkah Setup
+
+### 1. Buat Repository GitHub
+
+1. Login ke [GitHub](https://github.com)
+2. Klik tombol **New repository** atau kunjungi https://github.com/new
+3. Isi detail repository:
+   - **Repository name**: `pkl-laporan` (atau nama lain)
+   - **Description**: "Laporan PKL di CV Sinar Alam Motor - SMK Negeri 1 Sumarorong"
+   - **Visibility**: Public ✅
+   - **Initialize**: Jangan centang "Add README" (kita sudah punya)
+4. Klik **Create repository**
+
+### 2. Upload Files ke GitHub
+
+#### Opsi A: Via GitHub Web (Mudah)
+
+1. Di halaman repository baru, klik **uploading an existing file**
+2. Drag & drop semua file dari folder `github-presentation`:
+   - README.md
+   - index.html
+   - LICENSE
+   - .gitignore
+   - Folder `images/` (dengan semua foto)
+   - Folder `.github/` (dengan workflows)
+   - File `Laporan_PKL_Kelvin_LENGKAP_ENHANCED.docx`
+3. Scroll ke bawah, tambahkan commit message: "Initial commit"
+4. Klik **Commit changes**
+
+#### Opsi B: Via Git Command Line (Advanced)
+
+```bash
+# Navigate ke folder
+cd /home/claude/github-presentation
+
+# Initialize git
+git init
+
+# Add remote
+git remote add origin https://github.com/USERNAME/pkl-laporan.git
+
+# Add all files
+git add .
+
+# Commit
+git commit -m "Initial commit: Laporan PKL"
+
+# Push
+git branch -M main
+git push -u origin main
+```
+
+### 3. Aktifkan GitHub Pages
+
+1. Di repository, klik **Settings** (⚙️)
+2. Di menu kiri, klik **Pages**
+3. Di bagian **Source**:
+   - Branch: `main`
+   - Folder: `/ (root)`
+4. Klik **Save**
+5. Tunggu 1-2 menit untuk deployment
+6. Refresh halaman, akan muncul link: `https://username.github.io/pkl-laporan`
+
+### 4. Verifikasi
+
+✅ Buka link GitHub Pages Anda  
+✅ Pastikan navigasi berfungsi  
+✅ Cek semua gambar muncul  
+✅ Test tombol download  
+
+## 🎨 Kustomisasi
+
+### Mengubah Warna
+
+Edit file `index.html`, cari bagian CSS:
+
+```css
+/* Gradient utama */
+background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+/* Ganti dengan warna Yamaha jika mau */
+background: linear-gradient(135deg, #0033A0 0%, #E60012 100%);
+```
+
+### Menambah Konten
+
+1. Edit `index.html` untuk menambah section baru
+2. Edit `README.md` untuk menambah informasi
+3. Commit & push perubahan
+
+## 📱 Sharing
+
+Share link GitHub Pages Anda:
+
+```
+🔗 https://username.github.io/pkl-laporan
+```
+
+Atau buat QR Code untuk presentasi!
+
+## ❓ Troubleshooting
+
+### Gambar tidak muncul?
+- Pastikan folder `images/` ter-upload
+- Check path di HTML (case-sensitive)
+
+### GitHub Pages tidak aktif?
+- Pastikan repository public
+- Check Settings > Pages sudah diaktifkan
+- Tunggu 5-10 menit untuk propagasi
+
+### File .docx tidak bisa didownload?
+- Pastikan file ada di root directory
+- Check link path di HTML
+
+## 📞 Support
+
+Butuh bantuan? Open an Issue di repository!
+
+---
+
+**Good luck! 🚀**

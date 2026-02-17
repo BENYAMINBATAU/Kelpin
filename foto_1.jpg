@@ -1,0 +1,1117 @@
+# 📘 LAPORAN PRAKTIK KERJA LAPANGAN (PKL)
+## CV SINAR ALAM MOTOR - Bengkel Resmi Yamaha
+
+<div align="center">
+
+![Yamaha Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yamaha_Motor_logo.svg/200px-Yamaha_Motor_logo.svg.png)
+
+**Oleh: KELVIN**  
+**NIS: 0071518396**  
+**Kelas XII - Teknik Sepeda Motor**
+
+**UPTD SMK Negeri 1 Sumarorong**  
+**Provinsi Sulawesi Barat**
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)](https://github.com)
+[![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](README.md)
+
+</div>
+
+---
+
+## 📋 Navigasi Cepat
+
+<div align="center">
+
+| [🏠 Beranda](#-beranda) | [📖 Tentang PKL](#-tentang-pkl) | [🏢 Profil Industri](#-profil-industri) | [💼 Kegiatan](#-kegiatan-praktik) |
+|:---:|:---:|:---:|:---:|
+| [📊 Analisis SWOT](#-analisis-swot) | [🛠️ Kompetensi](#️-kompetensi-yang-diperoleh) | [📸 Dokumentasi](#-dokumentasi-kegiatan) | [📝 Kesimpulan](#-kesimpulan) |
+
+</div>
+
+---
+
+## 🏠 Beranda
+
+<div align="center">
+
+### Selamat Datang di Laporan PKL Digital! 👋
+
+Repositori ini berisi dokumentasi lengkap kegiatan Praktik Kerja Lapangan (PKL) yang dilaksanakan di **CV Sinar Alam Motor**, bengkel resmi Yamaha di Sumarorong, Sulawesi Barat.
+
+**Periode PKL:** 2025-2026 (3 Bulan)
+
+</div>
+
+### 🎯 Highlights
+
+```
+✅ Pengalaman hands-on di bengkel resmi Yamaha
+✅ Pelatihan dengan mekanik bersertifikat
+✅ Akses ke teknologi diagnostic modern (Yamaha Diagnostic Tool)
+✅ Exposure ke berbagai tipe sepeda motor Yamaha
+✅ Pembelajaran standar operasional industri
+```
+
+---
+
+## 📖 Tentang PKL
+
+### 🎓 Latar Belakang
+
+Praktik Kerja Lapangan (PKL) merupakan program wajib bagi siswa SMK yang bertujuan memberikan pengalaman kerja nyata di dunia industri. Di era Revolusi Industri 4.0, industri otomotif mengalami transformasi digital dengan teknologi seperti:
+
+- 🔧 **Electronic Fuel Injection (EFI)**
+- 🛡️ **Anti-lock Braking System (ABS)**
+- 🖥️ **Electronic Control Unit (ECU)**
+- 📡 **IoT-based Diagnostics**
+
+### 🎯 Tujuan PKL
+
+1. **Pengalaman Langsung** - Bekerja di lingkungan profesional bengkel resmi
+2. **Keterampilan Teknis** - Menguasai perawatan & perbaikan motor modern
+3. **Soft Skills** - Mengembangkan komunikasi, teamwork, dan problem solving
+4. **Networking** - Membangun koneksi dengan praktisi industri
+5. **Kesiapan Kerja** - Mempersiapkan diri untuk dunia kerja
+
+### 💡 Manfaat
+
+<table>
+<tr>
+<td width="33%">
+
+#### 👨‍🎓 Bagi Siswa
+- Pengalaman kerja nyata
+- Skill upgrade
+- Portfolio building
+- Career preparation
+- Confidence boost
+
+</td>
+<td width="33%">
+
+#### 🏫 Bagi Sekolah
+- Link and match
+- Curriculum feedback
+- Industry partnership
+- Enhanced reputation
+- Updated learning
+
+</td>
+<td width="33%">
+
+#### 🏭 Bagi Industri
+- Workforce support
+- Talent pipeline
+- CSR contribution
+- Fresh perspectives
+- Recruitment opportunity
+
+</td>
+</tr>
+</table>
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 🏢 Profil Industri
+
+### 🏪 CV Sinar Alam Motor
+
+<div align="center">
+
+![Bengkel](images/foto_1.jpg)
+
+**Bengkel Resmi Yamaha - Sumarorong**
+
+</div>
+
+#### 📍 Informasi Umum
+
+```yaml
+Nama Perusahaan: CV Sinar Alam Motor
+Direktur: Alvian Howend
+Jenis Usaha: Bengkel Resmi Yamaha (Sales & Service)
+Lokasi: Sumarorong, Sulawesi Barat
+Jam Operasional: Senin-Sabtu, 08:15 - 18:00 WIT
+Status: Authorized Yamaha Service Center
+```
+
+#### 🎯 Visi
+
+> *"Menjadi pusat reparasi motor terpercaya yang menyediakan spare part dan jasa servis berkualitas tinggi dengan mengutamakan kepuasan pelanggan."*
+
+#### 🚀 Misi
+
+1. ✅ Memberikan solusi terbaik dalam penyediaan suku cadang dan reparasi
+2. ✅ Memberikan pelayanan dengan standar mutu tinggi
+3. ✅ Mendahulukan kepentingan pelanggan dan karyawan
+4. ✅ Mengikuti perkembangan teknologi secara berkelanjutan
+5. ✅ Membangun tim kerja profesional melalui training rutin
+
+#### 🛠️ Layanan
+
+<table>
+<tr>
+<td>
+
+**Servis Berkala**
+- Ganti Oli
+- Tune Up
+- Pengecekan Komponen
+
+</td>
+<td>
+
+**Perbaikan Mesin**
+- Overhaul Engine
+- Cylinder Head Service
+- Transmission Repair
+
+</td>
+<td>
+
+**Sistem Kelistrikan**
+- ECU Diagnostics
+- Wiring Troubleshooting
+- Sensor Replacement
+
+</td>
+</tr>
+<tr>
+<td>
+
+**CVT System**
+- Cleaning
+- Roller Replacement
+- V-Belt Service
+
+</td>
+<td>
+
+**Brake System**
+- Pad Replacement
+- Fluid Bleeding
+- Caliper Service
+
+</td>
+<td>
+
+**Spare Parts**
+- Original Yamaha Parts
+- Accessories
+- Consumables
+
+</td>
+</tr>
+</table>
+
+#### 👥 Struktur Organisasi
+
+```mermaid
+graph TD
+    A[Direktur<br/>Alvian Howend] --> B[Manajer Operasional]
+    B --> C[Kepala Bengkel<br/>Service Advisor]
+    B --> D[Administrasi & Kasir]
+    B --> E[Gudang/Sparepart]
+    C --> F[Mekanik Senior<br/>Muhammad Sapei]
+    C --> G[Mekanik Junior]
+    F --> H[Teknisi Pendukung]
+```
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 📊 Analisis SWOT
+
+<div align="center">
+
+### Analisis Strategis CV Sinar Alam Motor
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 STRENGTHS (Kekuatan)
+
+#### Internal Advantages
+
+- ✅ **Status Resmi Yamaha** - Sertifikasi & standar terjamin
+- ✅ **Mekanik Bersertifikat** - Pengalaman 5+ tahun
+- ✅ **Peralatan Modern** - Yamaha Diagnostic Tool tersedia
+- ✅ **Lokasi Strategis** - Di pusat kota Sumarorong
+- ✅ **Spare Parts Lengkap** - Stok original Yamaha
+- ✅ **Manajemen Terorganisir** - SOP yang jelas
+- ✅ **Reputasi Baik** - Rating pelanggan tinggi
+- ✅ **Training Berkelanjutan** - Update skill rutin
+
+#### Key Success Factors
+```
+🔹 Quality Service ⭐⭐⭐⭐⭐
+🔹 Customer Satisfaction ⭐⭐⭐⭐⭐
+🔹 Technical Expertise ⭐⭐⭐⭐⭐
+🔹 Parts Availability ⭐⭐⭐⭐⭐
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚠️ WEAKNESSES (Kelemahan)
+
+#### Areas for Improvement
+
+- 🔸 **Kapasitas Terbatas** - Max 8 unit bersamaan
+- 🔸 **Ketergantungan Supply** - Dari pusat distribusi
+- 🔸 **Waiting Time** - Lama saat peak season
+- 🔸 **No Online Booking** - Belum terintegrasi
+- 🔸 **Area Tunggu Kecil** - Perlu perluasan
+- 🔸 **Digital Marketing** - Masih terbatas
+
+#### Priority Improvements
+```
+📌 Expand capacity
+📌 Implement online booking
+📌 Upgrade waiting area
+📌 Boost digital presence
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 OPPORTUNITIES (Peluang)
+
+#### Growth Potential
+
+- 🎯 **Market Growth** - Penjualan Yamaha meningkat
+- 🎯 **Service Awareness** - Kesadaran servis ↑
+- 🎯 **Mobile Service** - Potensi layanan jemput
+- 🎯 **Fleet Management** - B2B opportunities
+- 🎯 **Training Center** - Yamaha certification hub
+- 🎯 **Express Service** - Quick service model
+- 🎯 **Digitalization** - Online booking & notification
+
+#### Market Trends
+```
+📈 Motorcycle ownership increasing
+📈 Premium service demand rising
+📈 Digital transformation accelerating
+📈 Customer expectations evolving
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ THREATS (Ancaman)
+
+#### External Challenges
+
+- ⚠️ **Non-Resmi Competition** - Harga lebih murah
+- ⚠️ **New Competitors** - Bengkel resmi baru
+- ⚠️ **Price Fluctuation** - Biaya spare parts naik
+- ⚠️ **EV Disruption** - Motor listrik emerging
+- ⚠️ **Economic Condition** - Daya beli menurun
+- ⚠️ **Counterfeit Parts** - Suku cadang palsu
+
+#### Risk Management
+```
+🛡️ Maintain quality standards
+🛡️ Competitive pricing strategy
+🛡️ Customer loyalty programs
+🛡️ Stay ahead in technology
+```
+
+</td>
+</tr>
+</table>
+
+### 🎯 Strategi Rekomendasi
+
+<div align="center">
+
+| Strategi | Deskripsi | Prioritas |
+|----------|-----------|-----------|
+| **SO Strategy** | Leverage strengths untuk exploit opportunities | 🔥🔥🔥 |
+| **WO Strategy** | Minimize weaknesses untuk capture opportunities | 🔥🔥 |
+| **ST Strategy** | Use strengths untuk counter threats | 🔥🔥🔥 |
+| **WT Strategy** | Reduce weaknesses dan avoid threats | 🔥 |
+
+</div>
+
+**Kesimpulan Analisis:**  
+CV Sinar Alam Motor memiliki posisi kompetitif yang kuat dengan berbagai keunggulan. Fokus pada digitalisasi layanan, peningkatan kapasitas, dan inovasi program pelanggan akan mempertahankan keunggulan kompetitif di pasar.
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 💼 Kegiatan Praktik
+
+### 🔧 Deskripsi Pekerjaan
+
+Selama PKL, saya terlibat dalam berbagai aktivitas operasional bengkel:
+
+#### Daily Activities
+
+| No | Kegiatan | Frekuensi | Keterangan |
+|----|----------|-----------|------------|
+| 1 | Servis Berkala | Harian | Ganti oli, tune up |
+| 2 | Perbaikan Mesin | 2-3x/minggu | Overhaul, troubleshooting |
+| 3 | Sistem Kelistrikan | Mingguan | Diagnostik ECU |
+| 4 | CVT Cleaning | 3-4x/minggu | Motor matic |
+| 5 | Brake Service | Harian | Kampas rem |
+| 6 | Delivery Parts | Harian | Distribusi |
+| 7 | Documentation | Harian | Foto & laporan |
+
+---
+
+### 📚 Pembahasan Teknis Detail
+
+<details>
+<summary><b>1. 🛢️ MENGGANTI OLI MESIN</b></summary>
+
+<br>
+
+#### 📋 Deskripsi
+Perawatan paling fundamental untuk menjaga performa mesin optimal dan memperpanjang usia komponen.
+
+#### 🔨 Alat & Bahan
+- ✅ Kunci ring/pas (17mm)
+- ✅ Kunci T/sock
+- ✅ Wadah penampung oli bekas
+- ✅ Corong oli
+- ✅ Oli mesin baru (10W-40 / 20W-50)
+- ✅ Lap kain bersih
+- ✅ Sarung tangan kerja
+
+#### 📝 Prosedur Kerja
+
+```
+Step 1: Persiapan
+  └─ Siapkan alat & bahan
+  └─ Panaskan mesin 3-5 menit
+  └─ Tunggu 1-2 menit setelah mati
+
+Step 2: Pembuangan Oli Lama
+  └─ Buka baut drain (17mm)
+  └─ Tampung oli bekas
+  └─ Pastikan oli habis keluar
+  └─ Bersihkan area drain plug
+
+Step 3: Pemasangan & Pengisian
+  └─ Periksa ring/gasket
+  └─ Pasang & kencangkan baut (20-25 Nm)
+  └─ Isi oli baru (0.8-1.2L sesuai tipe)
+  └─ Check dengan dipstick (L-H)
+  └─ Test running engine
+  └─ Periksa kebocoran
+```
+
+#### 💡 Pembelajaran Teknis
+
+> **Key Takeaways:**
+> - ⚠️ Spesifikasi oli harus sesuai manual (viscosity rating)
+> - ⚠️ Jangan over-tightening baut (risiko rusak drat)
+> - ⚠️ Pemanasan penting untuk pengeluaran oli sempurna
+> - ⚠️ Always double-check untuk kebocoran
+
+#### 📸 Dokumentasi
+![Ganti Oli](images/foto_6.jpg)
+
+</details>
+
+<details>
+<summary><b>2. 🛑 MENGGANTI KAMPAS REM DEPAN</b></summary>
+
+<br>
+
+#### 📋 Deskripsi
+Penggantian dilakukan saat ketebalan kampas < 1mm untuk memastikan pengereman optimal dan aman.
+
+#### 🔨 Alat & Bahan
+- ✅ Kunci L / hex key
+- ✅ Kunci ring/pas
+- ✅ Obeng (- dan +)
+- ✅ Kampas rem baru (original)
+- ✅ Brake cleaner
+- ✅ Push-back tool untuk piston
+
+#### 📝 Prosedur Kerja
+
+```
+Step 1: Persiapan
+  └─ Angkat roda depan (paddock stand)
+  └─ Siapkan tools & parts
+
+Step 2: Pembongkaran
+  └─ Lepas baut kaliper (2 pcs)
+  └─ Keluarkan kaliper (hati-hati selang rem)
+  └─ Lepas kampas rem lama
+
+Step 3: Pembersihan & Inspeksi
+  └─ Bersihkan kaliper dengan brake cleaner
+  └─ Periksa piston (no leaks)
+  └─ Cek brake fluid level
+
+Step 4: Pemasangan
+  └─ Push piston masuk (push-back tool)
+  └─ Pasang kampas baru (perhatikan arah)
+  └─ Mount kaliper ke bracket
+  └─ Kencangkan baut (25-30 Nm)
+
+Step 5: Testing
+  └─ Pump tuas rem beberapa kali
+  └─ Test ride check braking
+  └─ Final inspection
+```
+
+#### 💡 Safety Points
+
+> **⚠️ CRITICAL:**
+> - Jangan sampai brake fluid tumpah (corrosive!)
+> - Pastikan tidak ada udara di sistem
+> - Check brake lever feel sebelum test ride
+> - Verify proper pad clearance
+
+#### 📸 Dokumentasi
+![Ganti Kampas Rem](images/foto_2.jpg)
+
+</details>
+
+<details>
+<summary><b>3. 🔄 MEMBERSIHKAN CVT (Continuously Variable Transmission)</b></summary>
+
+<br>
+
+#### 📋 Deskripsi
+Maintenance rutin untuk motor matic agar transmisi tetap responsif dan mencegah selip pada v-belt.
+
+#### 🔨 Alat & Bahan
+- ✅ Kunci T (multiple sizes)
+- ✅ Kunci shock / impact wrench
+- ✅ Kompresor udara
+- ✅ Kuas halus
+- ✅ Lap kain microfiber
+- ✅ Bearing grease
+
+#### 📝 Prosedur Kerja
+
+```
+Step 1: Akses CVT
+  └─ Lepas cover CVT (6-8 baut)
+  └─ Foto/catat posisi komponen
+  └─ Lepas mur pulley (kunci shock)
+
+Step 2: Pembongkaran
+  └─ Keluarkan pulley moving
+  └─ Lepas v-belt
+  └─ Keluarkan roller weights
+  └─ Lepas sliding piece
+
+Step 3: Inspeksi
+  └─ Check v-belt (no cracks/wear)
+  └─ Check roller (no flatspot)
+  └─ Check sliding piece (smooth surface)
+  └─ Check pulley face (no scoring)
+
+Step 4: Pembersihan
+  └─ Blow out dengan kompresor
+  └─ Sikat dengan kuas halus
+  └─ Bersihkan semua komponen
+  └─ Lap dengan microfiber
+
+Step 5: Reassembly
+  └─ Pasang komponen (sesuai urutan)
+  └─ Kencangkan mur pulley (proper torque)
+  └─ Pasang cover CVT
+  └─ Test acceleration
+```
+
+#### 📊 Komponen CVT & Fungsi
+
+| Komponen | Fungsi | Kondisi Check |
+|----------|--------|---------------|
+| **V-Belt** | Transfer power | No cracks, proper width |
+| **Roller Weights** | Ratio control | No flatspot, uniform wear |
+| **Pulley** | Ratio adjustment | Smooth face, no scoring |
+| **Sliding Piece** | Support movement | Smooth, no roughness |
+
+#### 💡 Pro Tips
+
+> **Best Practices:**
+> - 🔧 Clean CVT every 5,000-10,000 km
+> - 🔧 Replace v-belt every 20,000-30,000 km
+> - 🔧 Check roller every CVT service
+> - 🔧 Use proper grease for sliding piece
+> - 🔧 Never wash CVT with water!
+
+#### 📸 Dokumentasi
+![Membersihkan CVT](images/foto_4.jpg)
+
+</details>
+
+<details>
+<summary><b>4. 🖥️ DIAGNOSTIK MENGGUNAKAN YAMAHA DIAGNOSTIC TOOL (YDT)</b></summary>
+
+<br>
+
+#### 📋 Deskripsi
+Pemeriksaan sistem injeksi dan kelistrikan menggunakan scanner profesional untuk mendeteksi error code dan troubleshooting motor injeksi modern.
+
+#### 🔨 Alat & Bahan
+- ✅ Laptop dengan software YDT
+- ✅ Kabel OBD diagnostic
+- ✅ Sepeda motor injeksi
+- ✅ Service manual (reference)
+
+#### 📝 Prosedur Diagnostik
+
+```
+Step 1: Connection
+  └─ Locate OBD port (biasanya di bawah jok)
+  └─ Connect diagnostic cable
+  └─ Connect ke laptop
+  └─ ON ignition (engine off)
+
+Step 2: Software Setup
+  └─ Launch YDT software
+  └─ Select motorcycle model
+  └─ Establish communication
+
+Step 3: Reading Data
+  └─ Read all systems
+  └─ Check DTC (Diagnostic Trouble Codes)
+  └─ View live data sensors
+  └─ Record parameters
+
+Step 4: Analysis
+  └─ TPS (Throttle Position Sensor)
+  └─ O2 Sensor readings
+  └─ Coolant temperature
+  └─ Injector pulse width
+  └─ MAP sensor
+  └─ Crankshaft position
+
+Step 5: Testing
+  └─ Actuation test (fuel pump)
+  └─ Actuation test (injector)
+  └─ Actuation test (ignition coil)
+  └─ Component function check
+
+Step 6: Repair & Verification
+  └─ Fix identified issues
+  └─ Clear DTC codes
+  └─ Re-scan for verification
+  └─ Test ride
+```
+
+#### 🚨 Common Error Codes
+
+<table>
+<tr>
+<th>Code</th>
+<th>Description</th>
+<th>Common Cause</th>
+<th>Solution</th>
+</tr>
+<tr>
+<td><code>P0030</code></td>
+<td>O2 Sensor Heater</td>
+<td>Heater circuit fault</td>
+<td>Replace O2 sensor</td>
+</tr>
+<tr>
+<td><code>P0122</code></td>
+<td>TPS Low Signal</td>
+<td>Bad TPS or wiring</td>
+<td>Check wiring, replace TPS</td>
+</tr>
+<tr>
+<td><code>P0335</code></td>
+<td>Crankshaft Position</td>
+<td>Sensor malfunction</td>
+<td>Replace CKP sensor</td>
+</tr>
+<tr>
+<td><code>P0171</code></td>
+<td>System Too Lean</td>
+<td>Air leak, injector</td>
+<td>Check intake, clean injector</td>
+</tr>
+<tr>
+<td><code>P0300</code></td>
+<td>Random Misfire</td>
+<td>Multiple causes</td>
+<td>Check plugs, coil, fuel</td>
+</tr>
+</table>
+
+#### 📊 Live Data Parameters
+
+```yaml
+Normal Operating Values:
+  TPS Voltage: 0.5V (closed) - 4.5V (full open)
+  O2 Sensor: 0.1V - 0.9V (cycling)
+  Coolant Temp: 80-95°C
+  MAP Sensor: 20-100 kPa
+  Engine RPM: 1,300-1,500 (idle)
+  Injector Pulse: 2-4 ms (idle)
+  Battery Voltage: 12.5-14.5V
+```
+
+#### 💡 Advanced Diagnostics
+
+> **What I Learned:**
+> - 🎯 Modern bikes heavily rely on electronics
+> - 🎯 Error codes are starting point, not answer
+> - 🎯 Live data analysis is crucial
+> - 🎯 Systematic approach prevents misdiagnosis
+> - 🎯 Documentation is critical for comeback cases
+> - 🎯 Update software regularly for new models
+
+#### ⚡ Troubleshooting Workflow
+
+```mermaid
+graph TD
+    A[Customer Complaint] --> B[Visual Inspection]
+    B --> C[Connect YDT]
+    C --> D{DTC Present?}
+    D -->|Yes| E[Analyze Error Codes]
+    D -->|No| F[Check Live Data]
+    E --> G[Component Testing]
+    F --> G
+    G --> H[Identify Root Cause]
+    H --> I[Repair/Replace]
+    I --> J[Clear DTC]
+    J --> K[Verification Test]
+    K --> L{Issue Resolved?}
+    L -->|Yes| M[Deliver to Customer]
+    L -->|No| N[Re-diagnose]
+    N --> C
+```
+
+#### 📸 Dokumentasi
+![Diagnostik YDT](images/foto_1.jpg)
+
+</details>
+
+<details>
+<summary><b>5. ⚡ KEGIATAN TAMBAHAN LAINNYA</b></summary>
+
+<br>
+
+### 📦 Distribusi & Logistik
+
+#### Mengantar Spare Parts
+- 🚚 Delivery ke bengkel lain
+- 🚚 Pengiriman via ekspedisi
+- 🚚 Supply ke gudang oli
+
+#### Dokumentasi
+![Delivery](images/foto_3.jpg)
+![Spare Parts](images/foto_5.jpg)
+
+### 🔧 Perbaikan Lainnya
+
+| Jenis Perbaikan | Deskripsi |
+|-----------------|-----------|
+| **Ganti DD Depan** | Disc brake replacement |
+| **Ganti Gigi Balance** | Balance shaft gear service |
+| **Ganti Kap Samping** | Body panel replacement |
+| **Ganti Oli Seal** | Oil seal replacement |
+| **Ganti Saklar Lampu** | Switch replacement |
+| **Throttle Body Cleaning** | TB service & cleaning |
+| **Ganti Tangki Bensin** | Fuel tank replacement |
+| **Ganti Soket Kabel** | Connector replacement |
+| **Perbaikan Kelistrikan** | Wiring troubleshooting |
+| **Ganti Spidometer** | Speedometer replacement |
+
+#### 📸 Galeri Kegiatan
+![Kegiatan 1](images/foto_7.jpg)
+![Kegiatan 2](images/foto_8.jpg)
+
+</details>
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 🛠️ Kompetensi yang Diperoleh
+
+### 💻 Hard Skills (Technical Competencies)
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔧 Mechanical Skills
+```
+✅ Engine Maintenance & Repair
+✅ CVT System Service
+✅ Brake System Maintenance
+✅ Electrical System Troubleshooting
+✅ Fuel Injection System
+✅ Transmission Service
+✅ Suspension & Steering
+✅ Quality Control Inspection
+```
+
+</td>
+<td width="50%">
+
+#### 🖥️ Technical Skills
+```
+✅ Yamaha Diagnostic Tool (YDT)
+✅ ECU Programming & Adaptation
+✅ Wiring Diagram Reading
+✅ Service Manual Interpretation
+✅ Technical Documentation
+✅ Measurement Tools Usage
+✅ Hand Tools Proficiency
+✅ Special Tools Operation
+```
+
+</td>
+</tr>
+</table>
+
+#### 📈 Skill Progression Chart
+
+```
+Skill Level Progress (0-100%):
+
+Engine Service        ████████████████████████████ 90%
+CVT Maintenance       ██████████████████████████ 85%
+Electrical System     ████████████████████████ 80%
+Diagnostic Tools      ███████████████████████ 75%
+Brake System          ████████████████████████████ 90%
+Customer Service      ███████████████████████ 75%
+Documentation         ██████████████████████████ 85%
+Problem Solving       ████████████████████████ 80%
+```
+
+---
+
+### 🎯 Soft Skills (Professional Competencies)
+
+<div align="center">
+
+| Soft Skill | Level | Description |
+|------------|-------|-------------|
+| **⏰ Time Management** | ⭐⭐⭐⭐⭐ | Disiplin & punctuality |
+| **💬 Communication** | ⭐⭐⭐⭐ | Clear & effective |
+| **🤝 Teamwork** | ⭐⭐⭐⭐⭐ | Collaborative spirit |
+| **🧠 Problem Solving** | ⭐⭐⭐⭐ | Analytical thinking |
+| **🔄 Adaptability** | ⭐⭐⭐⭐⭐ | Quick learner |
+| **💪 Responsibility** | ⭐⭐⭐⭐⭐ | Accountable |
+| **🎓 Learning Agility** | ⭐⭐⭐⭐⭐ | Proactive learning |
+| **😊 Customer Service** | ⭐⭐⭐⭐ | Service excellence |
+
+</div>
+
+---
+
+### 🎓 Certifications & Training
+
+```
+📜 Attended Training Sessions:
+  ├─ Yamaha Service Standard Training
+  ├─ Electronic Fuel Injection System
+  ├─ Yamaha Diagnostic Tool Operation
+  ├─ Safety & Health Workshop (K3)
+  └─ Customer Service Excellence
+```
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 📸 Dokumentasi Kegiatan
+
+<div align="center">
+
+### 🎬 Gallery PKL
+
+Berikut adalah dokumentasi visual dari kegiatan PKL yang dilaksanakan:
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ Diagnostik & Teknologi
+![Diagnostik Nmax](images/foto_1.jpg)
+**Mendiagnosa kerusakan Yamaha NMAX menggunakan Yamaha Diagnostic Tool**
+
+</td>
+<td width="50%">
+
+### 🔧 Service Maintenance
+![Ganti Kampas Rem](images/foto_2.jpg)
+**Penggantian kampas rem depan dengan prosedur standar Yamaha**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Distribusi Parts
+![Delivery Parts](images/foto_3.jpg)
+**Kegiatan delivery spare parts ke bengkel lain dan ekspedisi**
+
+</td>
+<td width="50%">
+
+### 🔄 CVT Service
+![Membersihkan CVT](images/foto_4.jpg)
+**Pembersihan sistem CVT motor matic untuk performa optimal**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛢️ Engine Service
+![Ganti Oli Seal](images/foto_5.jpg)
+**Penggantian oli seal dan perawatan mesin**
+
+</td>
+<td width="50%">
+
+### ⚡ Electrical System
+![Ganti Oli Mesin](images/foto_6.jpg)
+**Service rutin penggantian oli mesin sesuai interval**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔩 Component Replacement
+![Perbaikan](images/foto_7.jpg)
+**Penggantian komponen dan perbaikan sistem**
+
+</td>
+<td width="50%">
+
+### ⚙️ General Maintenance
+![Service Motor](images/foto_8.jpg)
+**Aktivitas service dan maintenance di bengkel**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Statistik Kegiatan
+
+<div align="center">
+
+```
+📈 RINGKASAN AKTIVITAS PKL
+
+Total Hari PKL                : 90 hari
+Total Jam Kerja Efektif       : 720 jam
+Motor yang Diservice          : 180+ unit
+Jenis Pekerjaan Dilakukan     : 15+ tipe
+Penggunaan Diagnostic Tool    : 45+ sessions
+Delivery Spare Parts          : 120+ trips
+Training Sessions Attended    : 8 sessions
+Projects Completed            : 25+ projects
+```
+
+</div>
+
+---
+
+### 🎯 Highlights Achievements
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### 🏆
+**Best Learner**  
+*Most Active Learner*
+
+</td>
+<td align="center" width="25%">
+
+#### ⚡
+**Quick Adapter**  
+*Fast Learning Curve*
+
+</td>
+<td align="center" width="25%">
+
+#### 🤝
+**Team Player**  
+*Excellent Collaboration*
+
+</td>
+<td align="center" width="25%">
+
+#### ⏰
+**Perfect Attendance**  
+*100% Presence*
+
+</td>
+</tr>
+</table>
+
+[⬆️ Kembali ke Navigasi](#-navigasi-cepat)
+
+---
+
+## 📝 Kesimpulan
+
+### 🎓 Kesimpulan Akhir
+
+<div align="center">
+
+> *"PKL di CV Sinar Alam Motor memberikan pengalaman yang sangat berharga dan mengubah cara pandang saya terhadap dunia kerja profesional."*
+
+</div>
+
+#### 🌟 Key Takeaways
+
+1. **🔧 Technical Excellence**
+   - Menguasai berbagai teknik servis dan perbaikan motor modern
+   - Mampu mengoperasikan tools diagnostik profesional
+   - Memahami standar operasional industri otomotif
+
+2. **💼 Professional Development**
+   - Mengembangkan etos kerja yang kuat
+   - Meningkatkan kemampuan problem solving
+   - Membangun sikap profesional dan bertanggung jawab
+
+3. **🤝 Soft Skills Enhancement**
+   - Komunikasi efektif dengan tim dan pelanggan
+   - Teamwork dan kolaborasi yang solid
+   - Adaptasi cepat dengan lingkungan kerja
+
+4. **🚀 Career Readiness**
+   - Siap memasuki dunia kerja
+   - Portfolio pengalaman yang kuat
+   - Network dengan praktisi industri
+
+5. **📚 Continuous Learning**
+   - Kesadaran pentingnya update skill
+   - Mindset lifelong learner
+   - Kesiapan menghadapi teknologi baru
+
+---
+
+### 💡 Refleksi Pribadi
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌱 Yang Saya Pelajari
+
+```
+✅ Teori dan praktik sangat berbeda
+✅ Soft skills sama pentingnya dengan hard skills
+✅ Industri otomotif terus berkembang
+✅ Sikap profesional adalah kunci
+✅ Detail matters dalam pekerjaan teknis
+✅ Customer satisfaction adalah prioritas
+✅ Teamwork membuat pekerjaan lebih mudah
+✅ Always double-check your work
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 Rencana Ke Depan
+
+```
+🎓 Terus belajar teknologi terbaru
+🎓 Ambil sertifikasi profesional
+🎓 Pertimbangkan melanjutkan ke D3/S1
+🎓 Build strong portfolio
+🎓 Maintain industry connections
+🎓 Stay updated dengan automotive trends
+🎓 Consider starting own business
+🎓 Give back to education community
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🙏 Terima Kasih
+
+<div align="center">
+
+Terima kasih kepada semua pihak yang telah mendukung pelaksanaan PKL ini:
+
+**🏢 CV Sinar Alam Motor**  
+Atas kesempatan dan bimbingan yang luar biasa
+
+**👨‍🏫 SMK Negeri 1 Sumarorong**  
+Atas fasilitas pendidikan berkualitas
+
+**👥 Pembimbing Lapangan**  
+Bapak Muhammad Sapei atas dedikasi membimbing
+
+**👨‍👩‍👦 Keluarga**  
+Atas dukungan moral dan material
+
+**🤝 Rekan-rekan**  
+Atas kolaborasi dan kerjasama yang baik
+
+</div>
+
+---
+
+### 📞 Contact & Follow
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kelvin@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6281243468547)
+
+**Kelvin**  
+*Teknik Sepeda Motor - SMK Negeri 1 Sumarorong*
+
+</div>
+
+---
+
+[⬆️ Kembali ke Atas](#-laporan-praktik-kerja-lapangan-pkl)
+
+---
+
+<div align="center">
+
+### 📄 Download Laporan Lengkap
+
+[![Download DOCX](https://img.shields.io/badge/Download-Laporan%20Lengkap-success?style=for-the-badge&logo=microsoft-word)](Laporan_PKL_Kelvin_LENGKAP_ENHANCED.docx)
+
+---
+
+**© 2025 Kelvin - PKL SMK Negeri 1 Sumarorong**
+
+*Dibuat dengan ❤️ untuk dokumentasi PKL*
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](README.md)
+[![GitHub](https://img.shields.io/badge/Powered%20by-GitHub-black?style=for-the-badge&logo=github)](https://github.com)
+
+</div>
